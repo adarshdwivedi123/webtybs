@@ -1,0 +1,24 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`components/View default 1`] = `
+<div
+  class="css-view-1dbjc4n"
+/>
+`;
+
+exports[`components/View non-text is rendered 1`] = `
+<div
+  class="css-view-1dbjc4n"
+>
+  <div
+    class="css-view-1dbjc4n"
+    data-testid="1"
+  />
+</div>
+`;
+
+exports[`components/View prop "pointerEvents" 1`] = `
+<div
+  class="css-view-1dbjc4n r-pointerEvents-ah5dr5"
+/>
+`;
